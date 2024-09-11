@@ -9,11 +9,11 @@ This is a WhatsApp chatbot made with Selenium and ChatterBot library of python. 
 __requirements__: 
 make sure you have python, selenium, ChatterBot and webdriver-manager installed. If not, go to command line and type:
 
-_pip install selenium_
+> pip install selenium
 
-_pip install ChatterBot_
+> pip install ChatterBot
 
-_pip install webdriver-manager_
+> pip install webdriver-manager
 
 To train the chatbot run train.py. To train the chatbot with custom dataset insted, run custom_train.py
 
